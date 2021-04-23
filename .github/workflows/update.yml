@@ -55,7 +55,7 @@ jobs:
               .join("\n");
             var converter = new showdown.Converter();
             let out =  converter.makeHtml(r);
-            fs.writeFileSync('./test.md', out);
+            fs.writeFileSync('./test.md', `\n<details><summary>Show activity!</summary>\n${out}\n</details>\n`);
             return out;
             function clip(str, length = 150){
               let e = str.slice(0, length);
