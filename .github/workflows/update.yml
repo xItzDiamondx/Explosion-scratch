@@ -32,6 +32,11 @@ jobs:
                     escape(i.payload.commits[0].message.split("\n")[0])
                   } ([${i.repo.name}](https://github.com/${i.repo.name}))`;
                 }
+                if (i.type === "IssueCommentEvent" && i.payload.action === "created") {
+                  return `- ${f(i)} – Commented in [${i.repo.name}](${
+                    i.payload.comment.html_url
+                  })<blockquote>${i.payload.comment.body.clip()}</blockquote>`;
+                }
                 if (i.type === "PullRequestEvent") {
                   let act;
                   if (i.payload.pull_request.merged_by) {
