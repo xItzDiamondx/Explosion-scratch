@@ -62,6 +62,7 @@ jobs:
               diff = diff / 60000;
               diff = Math.round(diff);
               diff = diff * 60000;
+              if (!_$.formatMilliseconds(diff)) return "Just now"
               return _$.formatMilliseconds(diff) + " ago"
             }
           result-encoding: string
