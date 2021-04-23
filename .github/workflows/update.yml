@@ -26,7 +26,7 @@ jobs:
             r = r
               .map((i) => {
                 if (i.type === "PushEvent") {
-                  return `- ${_$.formatMilliseconds(Date.now() - (new Date(i.created_at)).getTime())} – [\`${i.payload.commits[0].sha}\`](https://github.com/${
+                  return `- ${f(i)} – [\`${i.payload.commits[0].sha}\`](https://github.com/${
                     i.repo.name
                   }/commit/${i.payload.commits[0].sha})– ${
                     escape(i.payload.commits[0].message.split("\n")[0])
@@ -44,7 +44,7 @@ jobs:
                   } else {
                     act = i.payload.action;
                   }
-                  return `- ${_$.formatMilliseconds(Date.now() - (new Date(i.created_at)).getTime())} – ${act} a [pull request](${i.payload.pull_request.html_url}) in [${i.repo.name}](https://github.com/${i.repo.name})`;
+                  return `- ${f(i)} – ${act} a [pull request](${i.payload.pull_request.html_url}) in [${i.repo.name}](https://github.com/${i.repo.name})`;
                 }
               })
               .join("\n");
@@ -56,6 +56,13 @@ jobs:
               let e = str.slice(0, length);
               e += e.length == length ? "..." : "";
               return e.replace(/<(.|\n)*?>/g, "").replace(/\W+/g, " ");
+            }
+            function f(i){
+              let diff = Date.now() - (new Date(i.created_at)).getTime();
+              diff = diff / 60000;
+              diff = Math.round(diff);
+              diff = diff * 60000;
+              return _$.formatMilliseconds(diff) + " ago"
             }
           result-encoding: string
       - name: cat end.md and start.md
