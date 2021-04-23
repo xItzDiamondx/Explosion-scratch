@@ -26,7 +26,7 @@ jobs:
             r = r
               .map((i) => {
                 if (i.type === "PushEvent") {
-                  return `- ${f(i)} – [\`${i.payload.commits[0].sha}\`](https://github.com/${
+                  return `- ${f(i)} – [\`${i.payload.commits[0].sha.slice(0,7)}\`](https://github.com/${
                     i.repo.name
                   }/commit/${i.payload.commits[0].sha})– ${
                     escape(i.payload.commits[0].message.split("\n")[0])
