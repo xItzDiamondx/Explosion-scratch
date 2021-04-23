@@ -35,7 +35,7 @@ jobs:
                 if (i.type === "IssueCommentEvent" && i.payload.action === "created") {
                   return `- ${f(i)} – Commented in [${i.repo.name}](${
                     i.payload.comment.html_url
-                  })<blockquote>${i.payload.comment.body.clip()}</blockquote>`;
+                  })<blockquote>${clip(i.payload.comment.body)}</blockquote>`;
                 }
                 if (i.type === "PullRequestEvent") {
                   let act;
