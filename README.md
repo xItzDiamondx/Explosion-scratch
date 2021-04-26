@@ -29,26 +29,25 @@ Hi there! Welcome! I am a 15 year old coder, guitarist and an avid reader! I rea
 
 <details><summary>Show activity!</summary>
 <ul>
-<li><p>34 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/9fec6ab5a1d016dd75ab7c309536ed814eff447c"><code>9fec6ab</code></a>– Build and compile https:\/\/github.com\/Bijou-js\/Bijou.js\/tree\/main (#249) (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
-<li><p>34 minutes ago – Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/249">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
-<li><p>39 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/e27acef8e9a30831499420adca4a2e46f29ab4a3"><code>e27acef</code></a>– Merge #244 (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
-<li><p>39 minutes ago – Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/244">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
-<li><p>39 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/cba107e307382600e5d07a38844767587344b8da"><code>cba107e</code></a>– Merge #245 (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
-<li><p>39 minutes ago – Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/245">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
-<li><p>40 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/5570b2cb45a0bad1d3b10309e5078f97c99fa5dd"><code>5570b2c</code></a>– [Release] (#246) (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
-<li><p>40 minutes ago – Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/246">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
-<li><p>41 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/1facf7db3b577cf83e5fd283918b0fea6b7fdcd5"><code>1facf7d</code></a>– Build #247 (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
-<li><p>41 minutes ago – Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/248">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
-<li><p>41 minutes ago – Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/247">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
-<li><p>41 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/5cd52bc135e698294f58c08ed6da3e70bcf73262"><code>5cd52bc</code></a>– Add typescript (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
-<li><p>44 minutes ago – opened a <a href="https://github.com/Bijou-js/Bijou.js/pull/247">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
-<li><p>44 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/5cd52bc135e698294f58c08ed6da3e70bcf73262"><code>5cd52bc</code></a>– Add typescript (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
-<li><p>52 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/2527c27092dbe57b0c652350ded9216331cdcb07"><code>2527c27</code></a>– Build and compile random junk (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
-<li><p>52 minutes ago – Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/243">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
-<li><p>56 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/f80e1af16d511b5cff38307f10c408bf0dacc84c"><code>f80e1af</code></a>– JSDocs stuff (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
-<li><p>17 hours, 46 minutes ago – <a href="https://github.com/Explosion-Scratch/google/commit/0181bcff72ca3ee16c84464dcd5a81740f55132d"><code>0181bcf</code></a>– Create README.md (<a href="https://github.com/Explosion-Scratch/google">Explosion-Scratch/google</a>)</p></li>
-<li><p>1 day, 18 hours, 13 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/d327e4c18fe2aeb70b60efd77c3683820008813b"><code>d327e4c</code></a>– [Release] :tada: yay v8.2.0 (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
-<li><p>1 day, 18 hours, 13 minutes ago – Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/242">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
-<li><p>1 day, 18 hours, 15 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/499fb2225cf595e743fe9fa53f84eda187e960a0"><code>499fb22</code></a>– Update package.json (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
+<li><p>5 minutes ago – opened a <a href="https://github.com/Bijou-js/Bijou.js/pull/251">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
+<li><p>7 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/39762912b84e0362cf8072cd9439bfb135c5b72f"><code>3976291</code></a>– 12 second merge (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
+<li><p>7 minutes ago – Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/250">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
+<li><p>10 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/e8ccf747a4e52304eb6963e66c08957ebc0b3611"><code>e8ccf74</code></a>– Fix a bunch of docs stuff :tada: :smile: (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
+<li><p>46 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/9fec6ab5a1d016dd75ab7c309536ed814eff447c"><code>9fec6ab</code></a>– Build and compile https:\/\/github.com\/Bijou-js\/Bijou.js\/tree\/main (#249) (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
+<li><p>46 minutes ago – Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/249">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
+<li><p>51 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/e27acef8e9a30831499420adca4a2e46f29ab4a3"><code>e27acef</code></a>– Merge #244 (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
+<li><p>51 minutes ago – Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/244">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
+<li><p>52 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/cba107e307382600e5d07a38844767587344b8da"><code>cba107e</code></a>– Merge #245 (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
+<li><p>52 minutes ago – Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/245">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
+<li><p>52 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/5570b2cb45a0bad1d3b10309e5078f97c99fa5dd"><code>5570b2c</code></a>– [Release] (#246) (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
+<li><p>52 minutes ago – Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/246">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
+<li><p>53 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/1facf7db3b577cf83e5fd283918b0fea6b7fdcd5"><code>1facf7d</code></a>– Build #247 (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
+<li><p>53 minutes ago – Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/248">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
+<li><p>53 minutes ago – Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/247">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
+<li><p>53 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/5cd52bc135e698294f58c08ed6da3e70bcf73262"><code>5cd52bc</code></a>– Add typescript (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
+<li><p>56 minutes ago – opened a <a href="https://github.com/Bijou-js/Bijou.js/pull/247">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
+<li><p>56 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/5cd52bc135e698294f58c08ed6da3e70bcf73262"><code>5cd52bc</code></a>– Add typescript (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
+<li><p>1 hour, 4 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/2527c27092dbe57b0c652350ded9216331cdcb07"><code>2527c27</code></a>– Build and compile random junk (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
+<li><p>1 hour, 4 minutes ago – Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/243">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
 </ul>
 </details>
