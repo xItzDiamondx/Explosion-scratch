@@ -29,26 +29,26 @@ Hi there! Welcome! I am a 15 year old coder, guitarist and an avid reader! I rea
 
 <details><summary>Show activity!</summary>
 <ul>
-<li><p>44 minutes ago – <a href="https://github.com/Explosion-Scratch/slight.gq/commit/e5b5360c444d3fcb6d3dbe479b285ba276d58faa"><code>e5b5360</code></a>–  (<a href="https://github.com/Explosion-Scratch/slight.gq">Explosion-Scratch/slight.gq</a>)</p></li>
+<li><p>53 minutes ago – <a href="https://github.com/Explosion-Scratch/slight.gq/commit/e5b5360c444d3fcb6d3dbe479b285ba276d58faa"><code>e5b5360</code></a>–  (<a href="https://github.com/Explosion-Scratch/slight.gq">Explosion-Scratch/slight.gq</a>)</p></li>
 
-<li><p>23 hours, 7 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/78394b98f9756aa1b4ddec1a9fbfe2222ac482dd"><code>78394b9</code></a>– Bump clean-jsdoc-theme from 3.2.6 to 3.2.7 (#261) (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
-<li><p>23 hours, 7 minutes ago – Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/261">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
-<li><p>3 days, 9 hours, 4 minutes ago – Commented in <a href="https://github.com/thomaswilburn/Caret/issues/754#issuecomment-830493704">thomaswilburn/Caret</a><blockquote>ok</blockquote></p></li>
-<li><p>4 days, 13 hours, 17 minutes ago – Commented in <a href="https://github.com/thomaswilburn/Caret/issues/754#issuecomment-829632417">thomaswilburn/Caret</a><blockquote> It s not quite as easy as it seems basically and since Caret is largely in maintenance mode while we wait for Google to eventually kill off packag </blockquote></p></li>
-<li><p>4 days, 13 hours, 22 minutes ago – Commented in <a href="https://github.com/GrahamSH-LLK/gh-testing/issues/1#issuecomment-829629819">GrahamSH-LLK/gh-testing</a><blockquote>huh weird</blockquote></p></li>
-<li><p>4 days, 23 hours ago – Commented in <a href="https://github.com/slap-editor/slap/issues/415#issuecomment-829201162">slap-editor/slap</a><blockquote>Dupe of 414 and 411 </blockquote></p></li>
-<li><p>4 days, 23 hours, 3 minutes ago – Commented in <a href="https://github.com/slap-editor/slap/issues/415#issuecomment-829199433">slap-editor/slap</a><blockquote>Happened to me too Here is my entire log Show bash explosion penguin sudo npm i g slap npm WARN deprecat </blockquote></p></li>
+<li><p>23 hours, 17 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/78394b98f9756aa1b4ddec1a9fbfe2222ac482dd"><code>78394b9</code></a>– Bump clean-jsdoc-theme from 3.2.6 to 3.2.7 (#261) (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
+<li><p>23 hours, 17 minutes ago – Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/261">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
+<li><p>3 days, 9 hours, 14 minutes ago – Commented in <a href="https://github.com/thomaswilburn/Caret/issues/754#issuecomment-830493704">thomaswilburn/Caret</a><blockquote>ok</blockquote></p></li>
+<li><p>4 days, 13 hours, 26 minutes ago – Commented in <a href="https://github.com/thomaswilburn/Caret/issues/754#issuecomment-829632417">thomaswilburn/Caret</a><blockquote> It s not quite as easy as it seems basically and since Caret is largely in maintenance mode while we wait for Google to eventually kill off packag </blockquote></p></li>
+<li><p>4 days, 13 hours, 32 minutes ago – Commented in <a href="https://github.com/GrahamSH-LLK/gh-testing/issues/1#issuecomment-829629819">GrahamSH-LLK/gh-testing</a><blockquote>huh weird</blockquote></p></li>
+<li><p>4 days, 23 hours, 10 minutes ago – Commented in <a href="https://github.com/slap-editor/slap/issues/415#issuecomment-829201162">slap-editor/slap</a><blockquote>Dupe of 414 and 411 </blockquote></p></li>
+<li><p>4 days, 23 hours, 13 minutes ago – Commented in <a href="https://github.com/slap-editor/slap/issues/415#issuecomment-829199433">slap-editor/slap</a><blockquote>Happened to me too Here is my entire log Show bash explosion penguin sudo npm i g slap npm WARN deprecat </blockquote></p></li>
 
 
-<li><p>5 days, 12 hours, 44 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/f629ca17e2459171cac8b814acf3d500cb8db504"><code>f629ca1</code></a>– Add init function (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
-<li><p>5 days, 12 hours, 48 minutes ago – opened a <a href="https://github.com/Bijou-js/Bijou.js/pull/259">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
-<li><p>5 days, 21 hours, 35 minutes ago – closed a <a href="https://github.com/Bijou-js/Bijou.js/pull/257">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
-<li><p>5 days, 21 hours, 35 minutes ago – closed a <a href="https://github.com/Bijou-js/Bijou.js/pull/258">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
-<li><p>5 days, 21 hours, 38 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/ee84e443a2b99c27f17261d47b0e322e94a53555"><code>ee84e44</code></a>– Update build.yml (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
-<li><p>6 days, 13 hours, 52 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/4ce211b435782dd97228698502e81f2cebd08e17"><code>4ce211b</code></a>– Fix typerror (#256) (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
-<li><p>6 days, 13 hours, 52 minutes ago – Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/256">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
-<li><p>6 days, 13 hours, 53 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/f11ee5af6ff76d5e8ccbb5e0cf6504cf8e093d81"><code>f11ee5a</code></a>– Build and compile https:\/\/github.com\/Bijou-js\/Bijou.js\/tree\/main (#255) (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
-<li><p>6 days, 13 hours, 53 minutes ago – Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/255">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
-<li><p>6 days, 13 hours, 54 minutes ago – opened a <a href="https://github.com/Bijou-js/Bijou.js/pull/256">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
+<li><p>5 days, 12 hours, 53 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/f629ca17e2459171cac8b814acf3d500cb8db504"><code>f629ca1</code></a>– Add init function (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
+<li><p>5 days, 12 hours, 57 minutes ago – opened a <a href="https://github.com/Bijou-js/Bijou.js/pull/259">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
+<li><p>5 days, 21 hours, 45 minutes ago – closed a <a href="https://github.com/Bijou-js/Bijou.js/pull/257">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
+<li><p>5 days, 21 hours, 45 minutes ago – closed a <a href="https://github.com/Bijou-js/Bijou.js/pull/258">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
+<li><p>5 days, 21 hours, 48 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/ee84e443a2b99c27f17261d47b0e322e94a53555"><code>ee84e44</code></a>– Update build.yml (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
+<li><p>6 days, 14 hours, 2 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/4ce211b435782dd97228698502e81f2cebd08e17"><code>4ce211b</code></a>– Fix typerror (#256) (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
+<li><p>6 days, 14 hours, 2 minutes ago – Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/256">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
+<li><p>6 days, 14 hours, 2 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/f11ee5af6ff76d5e8ccbb5e0cf6504cf8e093d81"><code>f11ee5a</code></a>– Build and compile https:\/\/github.com\/Bijou-js\/Bijou.js\/tree\/main (#255) (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
+<li><p>6 days, 14 hours, 2 minutes ago – Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/255">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
+<li><p>6 days, 14 hours, 3 minutes ago – opened a <a href="https://github.com/Bijou-js/Bijou.js/pull/256">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
 </ul>
 </details>
