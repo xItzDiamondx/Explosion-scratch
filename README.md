@@ -29,26 +29,26 @@ Hi there! Welcome! I am a 15 year old coder, guitarist and an avid reader! I rea
 
 <details><summary>Show activity!</summary>
 <ul>
-<li><p>7 hours, 45 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/bc84aeea209a529e732a3d1b487d1c510d4812cc"><code>bc84aee</code></a>– Automated build (#260) (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
-<li><p>7 hours, 45 minutes ago – Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/260">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
-<li><p>7 hours, 47 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/762dd23b26e3bc425d7ff6b1312229e82e4fadf6"><code>762dd23</code></a>– New preload function (#259) (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
-<li><p>7 hours, 47 minutes ago – Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/259">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
-<li><p>12 hours, 23 minutes ago – <a href="https://github.com/Explosion-Scratch/slight.gq/commit/715bbf5e86abbfd4c0c78de7a34873c292929aac"><code>715bbf5</code></a>– yeet (<a href="https://github.com/Explosion-Scratch/slight.gq">Explosion-Scratch/slight.gq</a>)</p></li>
-<li><p>19 hours, 9 minutes ago – <a href="https://github.com/Explosion-Scratch/slight.gq/commit/e16aa5183406c0c51f4c3908f311c05e91f196ec"><code>e16aa51</code></a>–  (<a href="https://github.com/Explosion-Scratch/slight.gq">Explosion-Scratch/slight.gq</a>)</p></li>
-<li><p>21 hours, 4 minutes ago – <a href="https://github.com/Explosion-Scratch/slight.gq/commit/e5b5360c444d3fcb6d3dbe479b285ba276d58faa"><code>e5b5360</code></a>–  (<a href="https://github.com/Explosion-Scratch/slight.gq">Explosion-Scratch/slight.gq</a>)</p></li>
+<li><p>7 hours, 59 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/bc84aeea209a529e732a3d1b487d1c510d4812cc"><code>bc84aee</code></a>– Automated build (#260) (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
+<li><p>7 hours, 59 minutes ago – Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/260">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
+<li><p>8 hours ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/762dd23b26e3bc425d7ff6b1312229e82e4fadf6"><code>762dd23</code></a>– New preload function (#259) (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
+<li><p>8 hours, 1 minute ago – Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/259">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
+<li><p>12 hours, 37 minutes ago – <a href="https://github.com/Explosion-Scratch/slight.gq/commit/715bbf5e86abbfd4c0c78de7a34873c292929aac"><code>715bbf5</code></a>– yeet (<a href="https://github.com/Explosion-Scratch/slight.gq">Explosion-Scratch/slight.gq</a>)</p></li>
+<li><p>19 hours, 23 minutes ago – <a href="https://github.com/Explosion-Scratch/slight.gq/commit/e16aa5183406c0c51f4c3908f311c05e91f196ec"><code>e16aa51</code></a>–  (<a href="https://github.com/Explosion-Scratch/slight.gq">Explosion-Scratch/slight.gq</a>)</p></li>
+<li><p>21 hours, 17 minutes ago – <a href="https://github.com/Explosion-Scratch/slight.gq/commit/e5b5360c444d3fcb6d3dbe479b285ba276d58faa"><code>e5b5360</code></a>–  (<a href="https://github.com/Explosion-Scratch/slight.gq">Explosion-Scratch/slight.gq</a>)</p></li>
 
-<li><p>1 day, 19 hours, 27 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/78394b98f9756aa1b4ddec1a9fbfe2222ac482dd"><code>78394b9</code></a>– Bump clean-jsdoc-theme from 3.2.6 to 3.2.7 (#261) (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
-<li><p>1 day, 19 hours, 27 minutes ago – Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/261">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
-<li><p>4 days, 5 hours, 24 minutes ago – Commented in <a href="https://github.com/thomaswilburn/Caret/issues/754#issuecomment-830493704">thomaswilburn/Caret</a><blockquote>ok</blockquote></p></li>
-<li><p>5 days, 9 hours, 37 minutes ago – Commented in <a href="https://github.com/thomaswilburn/Caret/issues/754#issuecomment-829632417">thomaswilburn/Caret</a><blockquote> It s not quite as easy as it seems basically and since Caret is largely in maintenance mode while we wait for Google to eventually kill off packag </blockquote></p></li>
-<li><p>5 days, 9 hours, 42 minutes ago – Commented in <a href="https://github.com/GrahamSH-LLK/gh-testing/issues/1#issuecomment-829629819">GrahamSH-LLK/gh-testing</a><blockquote>huh weird</blockquote></p></li>
-<li><p>5 days, 19 hours, 20 minutes ago – Commented in <a href="https://github.com/slap-editor/slap/issues/415#issuecomment-829201162">slap-editor/slap</a><blockquote>Dupe of 414 and 411 </blockquote></p></li>
-<li><p>5 days, 19 hours, 23 minutes ago – Commented in <a href="https://github.com/slap-editor/slap/issues/415#issuecomment-829199433">slap-editor/slap</a><blockquote>Happened to me too Here is my entire log Show bash explosion penguin sudo npm i g slap npm WARN deprecat </blockquote></p></li>
+<li><p>1 day, 19 hours, 41 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/78394b98f9756aa1b4ddec1a9fbfe2222ac482dd"><code>78394b9</code></a>– Bump clean-jsdoc-theme from 3.2.6 to 3.2.7 (#261) (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
+<li><p>1 day, 19 hours, 41 minutes ago – Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/261">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
+<li><p>4 days, 5 hours, 38 minutes ago – Commented in <a href="https://github.com/thomaswilburn/Caret/issues/754#issuecomment-830493704">thomaswilburn/Caret</a><blockquote>ok</blockquote></p></li>
+<li><p>5 days, 9 hours, 50 minutes ago – Commented in <a href="https://github.com/thomaswilburn/Caret/issues/754#issuecomment-829632417">thomaswilburn/Caret</a><blockquote> It s not quite as easy as it seems basically and since Caret is largely in maintenance mode while we wait for Google to eventually kill off packag </blockquote></p></li>
+<li><p>5 days, 9 hours, 56 minutes ago – Commented in <a href="https://github.com/GrahamSH-LLK/gh-testing/issues/1#issuecomment-829629819">GrahamSH-LLK/gh-testing</a><blockquote>huh weird</blockquote></p></li>
+<li><p>5 days, 19 hours, 34 minutes ago – Commented in <a href="https://github.com/slap-editor/slap/issues/415#issuecomment-829201162">slap-editor/slap</a><blockquote>Dupe of 414 and 411 </blockquote></p></li>
+<li><p>5 days, 19 hours, 37 minutes ago – Commented in <a href="https://github.com/slap-editor/slap/issues/415#issuecomment-829199433">slap-editor/slap</a><blockquote>Happened to me too Here is my entire log Show bash explosion penguin sudo npm i g slap npm WARN deprecat </blockquote></p></li>
 
 
-<li><p>6 days, 9 hours, 3 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/f629ca17e2459171cac8b814acf3d500cb8db504"><code>f629ca1</code></a>– Add init function (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
-<li><p>6 days, 9 hours, 7 minutes ago – opened a <a href="https://github.com/Bijou-js/Bijou.js/pull/259">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
-<li><p>6 days, 17 hours, 55 minutes ago – closed a <a href="https://github.com/Bijou-js/Bijou.js/pull/257">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
-<li><p>6 days, 17 hours, 55 minutes ago – closed a <a href="https://github.com/Bijou-js/Bijou.js/pull/258">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
+<li><p>6 days, 9 hours, 17 minutes ago – <a href="https://github.com/Bijou-js/Bijou.js/commit/f629ca17e2459171cac8b814acf3d500cb8db504"><code>f629ca1</code></a>– Add init function (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
+<li><p>6 days, 9 hours, 21 minutes ago – opened a <a href="https://github.com/Bijou-js/Bijou.js/pull/259">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
+<li><p>6 days, 18 hours, 9 minutes ago – closed a <a href="https://github.com/Bijou-js/Bijou.js/pull/257">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
+<li><p>6 days, 18 hours, 9 minutes ago – closed a <a href="https://github.com/Bijou-js/Bijou.js/pull/258">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
 </ul>
 </details>
